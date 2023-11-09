@@ -1,1 +1,1 @@
-# new-repository LOCAL
+# new-repository REMOTE
